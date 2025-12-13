@@ -1,26 +1,25 @@
-Catálogo de Dados 
+# Catálogo de Dados 
 
-# 1) Descrição
+Descrição
 
 Os dados utilizados no projeto representam informações acadêmicas de estudantes, incluindo notas e características socioeducacionais.
 Nste catálogo veremos uma descrição de cada coluna, tipo, domínio e valores esperados (quando aplicáveis).
 
-
 Tabela: estudantes_bronze / estudantes_prata / estudantes_ouro
 
-# 1. Genero
+ 1. Genero
 
 -> Tipo: string
 
 -> Valores possíveis: "male", "female"
 
-# 2. Etnia
+ 2. Etnia
 
 -> Tipo: string
 
 -> Valores possíveis: "group A", "group B", "group C", "group D", "group E"
 
-# 3. Educacao_dos_pais
+ 3. Educacao_dos_pais
 
 -> Tipo: string
 
@@ -38,31 +37,31 @@ e) "bachelor's degree";
 
 f) "master's degree".
 
-# 4. Almoço
+ 4. Almoço
 
 -> Tipo: string
 
 -> Valores possíveis: "standard" ou "free/reduced"
 
-# 5. Curso_Preparatorio
+ 5. Curso_Preparatorio
 
 -> Tipo: string
 
 -> Valores possíveis: "none" ou "completed"
 
-# 6. Nota_Mat
+ 6. Nota_Mat
 
 -> Tipo: inteiro
 
 -> Valores esperados: 0 a 100
 
-# 7. Nota_Leitura
+ 7. Nota_Leitura
 
 -> Tipo: inteiro
 
 -> Valores esperados: 0 a 100
 
-# 8. Nota_Escrita
+ 8. Nota_Escrita
 
 -> Tipo: inteiro
 
